@@ -10,3 +10,7 @@
 
 - (gdb) p i <- 프로그램이 수행되기 전에는 지역 변수는 볼 수 없음
 - (gdb) info locals <- local 변수들을 모두 보여줌
+
+<h2> 22.03.30 [배열의 원소의 합을 구하는 함수 만들기 실습] </h2>
+
+<img width="1440" alt="src 실행 결과" src="https://user-images.githubusercontent.com/81795729/160757910-0188f70d-8126-42cf-a80f-08a0ca8f902e.png">
