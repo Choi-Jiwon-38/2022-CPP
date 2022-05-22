@@ -1,6 +1,7 @@
 #include <fstream>
 #include <cstdlib>
 #include "MyComplex.h"
+#include "MyComplex.cpp"
 using namespace std;
 
 void testSimpleCase();

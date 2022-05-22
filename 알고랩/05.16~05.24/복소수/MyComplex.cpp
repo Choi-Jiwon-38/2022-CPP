@@ -1,6 +1,4 @@
 #include "MyComplex.h"
-#include <cmath>
-#include <cstdlib>
 
 // 생성자 (Constructor)
 myComplex::myComplex(int real, int imag)
@@ -69,7 +67,7 @@ myComplex myComplex::operator *(const myComplex& number) const
 }
 myComplex myComplex::operator *(int value) const
 {
-    return myComplex(value) * (*this);
+    return (*this) * myComplex(value);
 }
 
 // Overloaded assignment operators

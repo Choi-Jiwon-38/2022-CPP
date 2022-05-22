@@ -1,6 +1,5 @@
-#pragma once
 #ifndef _MYCOMPLEX_H_
-#define _MYCOMPlEX_H_
+#define _MYCOMPLEX_H_
 #include <iostream>
 using namespace std;
 class myComplex {
