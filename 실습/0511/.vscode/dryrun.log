@@ -1,0 +1,9 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/choijiwon/Desktop/GitHub-Desktop/2022-CPP/실습/0511'
+g++ -g -c main.cpp
+g++ -g -c Bvector.cpp
+g++ -g -c Avector.cpp
+g++ -g -c Kvector.cpp
+g++ -g -o Bvector main.o Bvector.o Avector.o Kvector.o
+make: Leaving directory `/Users/choijiwon/Desktop/GitHub-Desktop/2022-CPP/실습/0511'
+ 
