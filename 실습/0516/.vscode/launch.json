@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/choijiwon/Desktop/GitHub-Desktop/2022-CPP/실습/0516",
+      "program": "/Users/choijiwon/Desktop/GitHub-Desktop/2022-CPP/실습/0516/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
